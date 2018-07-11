@@ -1,0 +1,11 @@
+{
+  "name": "docs.neurodata.io",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Benjamin Falk",
+  "devDependencies": {
+    "vuepress": "^0.11.0"
+  }
+}
