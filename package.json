@@ -1,5 +1,6 @@
 {
   "name": "docs.neurodata.io",
+  "description": "Static site generator for NeuroData documentation",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
@@ -7,5 +8,10 @@
   "author": "Benjamin Falk",
   "devDependencies": {
     "vuepress": "^0.11.0"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neurodata/docs.neurodata.io.git"
   }
 }
