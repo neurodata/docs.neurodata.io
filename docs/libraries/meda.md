@@ -1,3 +1,8 @@
+---
+prev: false
+next: false
+---
+
 # MEDA
 
 ## MEDA stands for `Matrix Exploratory Data Analysis`
