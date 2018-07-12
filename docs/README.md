@@ -1,22 +1,41 @@
 ---
 title: "Home"
-lang: "en-US"
+footer: Apache-2.0 Licensed
+editLink: false
 ---
 
-[[toc]]
+# What is NeuroData?
 
-# Home
+NeuroData is ...
 
-[NeuroData github](https://github.com/neurodata)
+# NeuroData does:
 
-## some more stuff
+- x
+- y
+- z
 
-### some final stuff
+# some more stuff
 
-text here
+## some final stuff
+
+got some code?
+
+```python
+import ndpull
+x = 1000
+ndpull.load_all_data(x)
+```
+
+### Some really final stuff
+
+Link to [meda](meda.md)
+
+Link to [ndpull](ndpull.md)
+
+text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here text here
 
 List:
 
-- lkjlj111
-- lkjlkj222
-- lkjljk333
+1. lkjlj111
+2. lkjlkj222
+3. lkjljk333
