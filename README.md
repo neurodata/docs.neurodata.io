@@ -35,6 +35,11 @@ Each page on the site is a folder under `docs/`.  The content is extracted from 
 
 ## Deployment
 
-```
-...
-```
+Hosted on [Netflify](https://www.netlify.com/).  Entirely from the Vuepress [guide](https://vuepress.vuejs.org/guide/deploy.html#netlify)
+
+Setup project from GitHub source using:
+
+- Build command: `npm run docs:build`
+- Publish directory `docs/.vuepress/dist`
+
+On AWS Route53 we have a CNAME for `docs.neurodata.io` to point to netflify DNS.
