@@ -16,7 +16,6 @@ module.exports = {
                 title: 'Services',
                 collapsable: false,
                 children: [
-                    ['/services/', 'Services'],
                     '/services/ndpull.md'
                 ]
             },
@@ -26,7 +25,8 @@ module.exports = {
                 children: [
                     '/libraries/meda.md'
                 ]
-            }
+            },
+            'faq.md',
         ],
         sidebarDepth: 2,
         // displayAllHeaders: true, //displays ALL headers for all pages in sidebar

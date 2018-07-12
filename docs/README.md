@@ -20,8 +20,4 @@ editLink: false
 
 NeuroData is ...
 
-# NeuroData does
-
-- x
-- y
-- z
+See our [FAQ](faq.md) for commonly asked questions

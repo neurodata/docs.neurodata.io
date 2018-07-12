@@ -1,3 +1,3 @@
 # Services
 
-We provide a tools for interacting with data.
+We provide tools for interacting with data.
