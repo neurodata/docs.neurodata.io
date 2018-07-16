@@ -72,7 +72,8 @@ module.exports = {
             title: 'Guides',
             collapsable: false,
             children: [
-                ['access.md', 'Data Access']
+                ['access.md', 'Data Access'],
+                ['boss-to-precompute.md', 'Precomputed Format'],
             ]
         }, ],
 

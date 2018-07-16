@@ -18,6 +18,10 @@ actionLink: /ndboss.html # top item in sidebar
     <h2><a href="/flashx.html">Numerical Libraries</a></h2>
     <p>Tools to perform statistical analysis on data</p>
   </div>
+  <div class="feature">
+    <h2><a href="/access.html">Guides</a></h2>
+    <p>Guides to using our services and libraries</p>
+  </div>
 </div>
 
 <p align="center">
