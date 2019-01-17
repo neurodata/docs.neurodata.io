@@ -11,19 +11,23 @@ actionLink: /ndboss.html # top item in sidebar
 
 <div class="features">
   <div class="feature">
-    <h2><a href="/ndboss.html">Web Services</a></h2>
-    <p>Tools to download, upload, and interact with data</p>
+    <h2><a href="/ndboss.html">Services</a></h2>
+    <p>NeuroData's cloud services</p>
   </div>
   <div class="feature">
-    <h2><a href="/flashx.html">Numerical Libraries</a></h2>
-    <p>Tools to perform statistical analysis on data</p>
-  </div>
-  <div class="feature">
-    <h2><a href="/access.html">Guides</a></h2>
+    <h2><a href="/download.html">Access</a></h2>
     <p>Guides to using our services and libraries</p>
+  </div>
+  <div class="feature">
+    <h2><a href="/analyze.html">Analyze</a></h2>
+    <p>Guides to doing analysis on image volumes hosted by ndcloud</p>
+  </div>
+  <div class="feature">
+    <h2><a href="/ingest.html">Storage</a></h2>
+    <p>Guides on sending data to NeuroData</p>
   </div>
 </div>
 
-<p align="center">
+<p style="text-align: center">
 See our <a href="faq.html">FAQ</a> for commonly asked questions
 </p>
